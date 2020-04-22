@@ -1,4 +1,4 @@
-# Mongo Packer
+# Node Packer
 This repository can be used to create an AMI in AWS containing Node and NodeJS using Packer.
 
 ## What is Packer?
